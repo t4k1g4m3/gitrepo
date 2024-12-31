@@ -25,3 +25,7 @@
 	} 
 
 ?>
+
+<htm>
+	<head></head>	
+</htm>
