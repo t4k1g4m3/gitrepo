@@ -26,7 +26,7 @@
 
 ?>
 
-<htm>
+<htm lang="main 1">
 	<head></head>	
 	<body>
 
